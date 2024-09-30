@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently studying business informatics nad i love to code.
+I'm currently studying business informatics and i love to code.
 <!--
 **lux-o/lux-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
